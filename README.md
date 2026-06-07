@@ -13,7 +13,7 @@ This project demonstrates ESG data ingestion, KPI calculation, sustainability an
 
 ## 🚀 Live Demo
 
-**Streamlit App:** *Add your Streamlit Cloud deployment URL here*
+**Streamlit App:** *[Add your Streamlit Cloud deployment URL here](https://esg-brsr-dashboard.streamlit.app/)*
 
 ---
 
